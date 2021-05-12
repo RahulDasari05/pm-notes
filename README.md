@@ -1,2 +1,5 @@
 # pm-notes
-## Deliverables 
+## deliverables 
+matrix organization
+system approach
+virtual team
